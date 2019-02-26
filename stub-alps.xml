@@ -1,0 +1,21 @@
+<alps version = '1.0'>
+    <doc>Onboarding API Profile</doc>
+    <descriptor id="onboradingid" type="semantic"/>
+    <descriptor id="companyid"  type="semantic"/>
+    <descriptor id="accountid"  type="semantic"/>
+    <descriptor id="status" type="semantic"/>
+
+    <descriptor id="start"onboarding type="unsafe">
+        <descriptor href="#onboardingid"/>
+    </descriptor>
+
+    <descriptor id="searchonboardrecords" type="safe" rt="#work-in-progress"/>
+        <descriptor id="status" type="semantic"/>
+    </descriptor>
+
+    <descriptor id="activity">
+        <descriptor id="id"     type="semantic"/>
+        <descriptor id="status" type="semantic"/>
+    </descriptor>
+
+</alps>

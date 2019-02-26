@@ -1,0 +1,21 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "description": "ndc",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [
+    "porto",
+    "workshop",
+    "api",
+    "amundsen"
+  ],
+  "author": "nuno.braga@finantech.pt",
+  "license": "ISC"
+}

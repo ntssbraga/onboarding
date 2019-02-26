@@ -1,0 +1,8 @@
+features
+
+1) login
+2) create company
+3) create account
+4) create activity
+5) stage
+6) commit or rollback
